@@ -1,1 +1,26 @@
-# DreamShare-1.3
+<article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">DreamShare Project</h2><a id="user-content-deprecation-warning" class="anchor" aria-label="Permalink: Deprecation Warning" href="#deprecation-warning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">Are you interested in the project ? <a href="https://beta.byweb.fr/betajoin.html" rel="nofollow">Join BetaTest</a></p>
+<p dir="auto">Our Application touches on a little explored theme, dreams, we allow you to publish your dreams as well as being able to read those of others, you can also interact with or simply use DreamShare as a notepad for dreams, chat with dreamers who looks like you</p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Mobile App</h1><a id="user-content-frappe-mobile" class="anchor" aria-label="Permalink: Frappe Mobile" href="#frappe-mobile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">The application will be available on Android, on iPhone in web version, then in the AppStore</p>
+<p dir="auto"><kbd><a target="_blank" rel="noopener noreferrer" href="https://portfolio.byweb.fr/assets/images/home.png"><img width="216" height="432" src="https://portfolio.byweb.fr/assets/images/home.png" alt="Desk" style="max-width: 100%;"></a></kbd>
+<kbd><a target="_blank" rel="noopener noreferrer" href="/frappe/mobile/blob/develop/screenshots/awesomebar.png"><img width="216" height="432" src="https://portfolio.byweb.fr/assets/images/homeinput.png" alt="Awesome Bar" style="max-width: 100%;"></a></kbd>
+<kbd><a target="_blank" rel="noopener noreferrer" href="/frappe/mobile/blob/develop/screenshots/form_view.png"><img width="216" height="432" src="https://portfolio.byweb.fr/assets/images/profil.png" alt="Form View" style="max-width: 100%;"></a></kbd></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Features:</h2><a id="user-content-features" class="anchor" aria-label="Permalink: Features:" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol dir="auto">
+<li>Publish/View Dreams</li>
+<li>Ranking of users according to their activitiesAdd/Remove/Download Attachments</li>
+<li>Navigation with dream category</li>
+<li>Add Comments, Add Like</li>
+<li>Interaction between users via comment/profile</li>
+<li>Link a dream to your profile everFy week</li>
+<li>Awesombar</li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Development</h2><a id="user-content-development" class="anchor" aria-label="Permalink: Development" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol start="0" dir="auto">
+
+<p dir="auto">Would you like to participate in the project ? <a href="https://portfolio.byweb.fr/#contact" rel="nofollow">join the developer program</a></p>
+
+</div>
+
+</article>
